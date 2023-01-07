@@ -1,0 +1,15 @@
+git status
+git remote add <URL>
+git add <target_file1> <target_file2> ...
+git add -A
+git commit
+git commit -m "commit message"
+git push origin master
+git log --graph --pretty=oneline
+git branch <branch>
+git branch -b <branch>
+git branch -d <branch>
+git checkout -b <branch>
+git checkout <branch>
+git fetch <reposetry>
+git restore --satged <file1> <file2> ...
